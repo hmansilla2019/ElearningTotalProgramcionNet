@@ -1,0 +1,8 @@
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\bin\Debug\Funciones.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\bin\Debug\Funciones.pdb
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\obj\Debug\Funciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\obj\Debug\Funciones.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Funciones\obj\Debug\Funciones.pdb

@@ -1,0 +1,8 @@
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\bin\Debug\Variables.exe.config
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\bin\Debug\Variables.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\bin\Debug\Variables.pdb
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\obj\Debug\Variables.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Variables\obj\Debug\Variables.pdb

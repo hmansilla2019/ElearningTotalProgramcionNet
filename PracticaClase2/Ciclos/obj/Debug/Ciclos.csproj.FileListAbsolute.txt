@@ -1,0 +1,8 @@
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\bin\Debug\Ciclos.exe.config
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\bin\Debug\Ciclos.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\bin\Debug\Ciclos.pdb
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\obj\Debug\Ciclos.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\obj\Debug\Ciclos.exe
+C:\Users\_Hugo\source\repos\PracticaClase2\Ciclos\obj\Debug\Ciclos.pdb
