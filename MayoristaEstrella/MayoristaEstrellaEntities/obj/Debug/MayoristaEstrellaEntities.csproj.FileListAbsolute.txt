@@ -1,0 +1,6 @@
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\bin\Debug\MayoristaEstrellaEntities.dll
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\bin\Debug\MayoristaEstrellaEntities.pdb
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\obj\Debug\MayoristaEstrellaEntities.csproj.AssemblyReference.cache
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\obj\Debug\MayoristaEstrellaEntities.csproj.CoreCompileInputs.cache
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\obj\Debug\MayoristaEstrellaEntities.dll
+C:\coderhouse43930\coderhouse43930\MayoristaEstrella\MayoristaEstrellaEntities\obj\Debug\MayoristaEstrellaEntities.pdb
